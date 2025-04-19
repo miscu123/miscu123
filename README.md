@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-A 19-year-old Computer Science student with a passion for problem-solving and a strong commitment to continuous learning. I am a team player, always eager to collaborate and share knowledge to achieve common goals. In my spare time, I enjoy playing football and video games, which help me relax and think strategically. I also dedicate time to improving my coding abilities through platforms like LeetCode, 
+A 20-year-old Computer Science student with a passion for problem-solving and a strong commitment to continuous learning. I am a team player, always eager to collaborate and share knowledge to achieve common goals. In my spare time, I enjoy playing football and video games, which help me relax and think strategically. I also dedicate time to improving my coding abilities through platforms like LeetCode, 
 where I actively solve problems and enhance my algorithmic skills. 
 
    <p align="left">
