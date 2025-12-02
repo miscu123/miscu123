@@ -21,8 +21,4 @@ I’m a 20-year-old Computer Science student and Junior Software Developer speci
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <br />
 
-### 📊 Stats
-
-![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=miscu123&show_icons=true&theme=monokai)
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=miscu123&theme=monokai&border_radius=4.5) -->
