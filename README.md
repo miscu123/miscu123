@@ -1,6 +1,7 @@
 # 🏄‍♂️ Mihai Albu
 
 **`Computer Science Student`**
+**`Embedded Systems Junior Software Developer`**
 
 I’m a 21-year-old Computer Science student and Junior Software Developer specializing in Embedded Systems, driven by a passion for problem-solving and a strong dedication to continuous learning. I thrive in collaborative environments, always eager to contribute, share knowledge, and work toward common objectives. Outside of academics and work, I enjoy playing football and video games, which help me unwind while sharpening my strategic thinking. I also regularly practice coding on platforms like LeetCode to strengthen my algorithmic and programming skills.
 
