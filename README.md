@@ -2,7 +2,7 @@
 
 **`Computer Science Student`**
 
-I’m a 20-year-old Computer Science student and Junior Software Developer specializing in Embedded Systems, driven by a passion for problem-solving and a strong dedication to continuous learning. I thrive in collaborative environments, always eager to contribute, share knowledge, and work toward common objectives. Outside of academics and work, I enjoy playing football and video games, which help me unwind while sharpening my strategic thinking. I also regularly practice coding on platforms like LeetCode to strengthen my algorithmic and programming skills.
+I’m a 21-year-old Computer Science student and Junior Software Developer specializing in Embedded Systems, driven by a passion for problem-solving and a strong dedication to continuous learning. I thrive in collaborative environments, always eager to contribute, share knowledge, and work toward common objectives. Outside of academics and work, I enjoy playing football and video games, which help me unwind while sharpening my strategic thinking. I also regularly practice coding on platforms like LeetCode to strengthen my algorithmic and programming skills.
 
    <p align="left">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/miscu123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
